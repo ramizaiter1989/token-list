@@ -75,6 +75,22 @@
     },
     {
       "chainId": 101,
+      "address": "3aBJrX6EX48GKxeyJcRN8Jd6Z5tey33VoR9XhHD1pump",
+      "symbol": "ZON",
+      "name": "Crypto PlayZone",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/XW8STVq.png",
+      "tags": ["gaming", "utility-token","ai"],
+      "extensions": {
+        "website": "https://crypto-playzone.com",
+        "twitter": "https://x.com/crypto_playzone",
+        "telegram": "https://t.me/cryptoplayzone2025",
+        "description": "Crypto PlayZone is a long-term Web3 gaming and AI utility platform built for crypto ecosystem, community, and innovation."
+      }
+    }
+    
+    {
+      "chainId": 101,
       "address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s",
       "symbol": "YAKU",
       "name": "Yaku",
